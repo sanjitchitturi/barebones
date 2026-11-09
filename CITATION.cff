@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use Barebones as a reference implementation, cite the versioned release."
+title: "Barebones"
+type: software
+authors:
+  - name: Barebones
+license: MIT
+version: 0.1.0
